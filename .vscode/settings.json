@@ -1,0 +1,14 @@
+{
+	"editor.formatOnSave": true,
+	"prettier.useTabs": true,
+	"prettier.tabWidth": 4,
+	"prettier.singleQuote": true,
+
+	"files.exclude": {
+		"**/.git": true,
+		"**/*.spec.ts": true,
+		"**/node_modules": true,
+		"**/e2e": true
+	},
+	"explorerExclude.backup": null
+}

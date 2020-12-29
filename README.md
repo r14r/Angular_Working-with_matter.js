@@ -1,5 +1,7 @@
 # Working with MatterJS
 
+![doc/dashboard.png](doc/dashboard.png)
+
     ng new App --routing --style scss
 
     yarn add matter-js --dev
